@@ -1,0 +1,2 @@
+Trip#: Seat #: FirstName LastName: Gender: Date of birth:Passport #: Nationality: Flight seat preference
+Palestine:A1:Ahmad Zaki :M:31/12/1997:1234232:palestine:food

@@ -1,0 +1,2 @@
+Flight number:From airport name:To airport name:The trip distance:The departure time:The arrival time
+Palestine:palestine:jaban:1800.0:22/2/2020:26/2/2020
